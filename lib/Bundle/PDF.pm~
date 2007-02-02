@@ -200,11 +200,11 @@ Archive::Zip
 
 OpenOffice::OOBuilder
 
+PDF::Report::Table
 
+PDFLib
 
-
-
-
+PDF::APIx::Layout
 
 
 
@@ -229,7 +229,7 @@ For PDFLib-Lite. see www.pdflib.com
 
 =head1 AUTHOR
 
-Kevin W. Henwood, <Khen1950fx@aol.com>
+Kevin W. Henwood, E<lt>khen1950fx@aol.com<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
