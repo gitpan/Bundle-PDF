@@ -1,12 +1,12 @@
 package Bundle::PDF;
 
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 
 1;
-__END__
+__END__;
 
 =head1 NAME
 
@@ -82,7 +82,7 @@ CAM::PDF
 
 Exporter
 
-Autoloader
+AutoLoader
 
 Text::PDF
 
@@ -200,9 +200,69 @@ Archive::Zip
 
 OpenOffice::OOBuilder
 
+Font::TTF
 
+Algorithm::Diff
 
+Font::TTFMetrics
 
+SWF::File
+
+SWF::Chart
+
+SWF::Search
+
+SWF::Builder
+
+SWF::Header
+
+SWF::NeedsRecompile
+
+FLV::Info
+
+File::Headerinfo::SWF
+
+File::Binary
+
+IO::Handle
+
+IO::File
+
+Font::AFM
+
+Sys::Hostname
+
+Text::CSV_XS
+
+PostScript::Document
+
+PostScript::MailLabels
+
+PostScript::CDCover
+
+PostScript::File
+
+PostScript::Graph
+
+PostScript::Columns
+
+PostScript::EPSF
+
+PostScript::Font
+
+PostScript::Simple
+
+PostScript::Simple::Table
+
+RPC::JSON
+
+MP3::Info
+
+File::Spec
+
+Exporter::Lite
+
+Class::Accessor
 
 
 
@@ -233,7 +293,7 @@ Kevin W. Henwood, <Khen1950fx@aol.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2006 by Kevin W. Henwood
+Copyright (C) 2007 by Kevin W. Henwood
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.8 or,
