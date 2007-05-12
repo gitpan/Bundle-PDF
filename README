@@ -1,10 +1,5 @@
-Bundle-PDF version 0.03
+Bundle-PDF version 0.04
 =======================
-
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
 
 
 
@@ -17,10 +12,15 @@ To install this module type the following:
    make test
    make install
 
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  none
 
 COPYRIGHT AND LICENCE
 
-
+Put the correct copyright and licence information here.
 
 Copyright (C) 2007 by Kevin W. Henwood
 

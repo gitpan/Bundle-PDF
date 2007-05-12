@@ -1,7 +1,7 @@
 package Bundle::PDF;
 
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 
 
@@ -14,7 +14,7 @@ Bundle::PDF - A bundle to install PDF modules and dependencies
 
 =head1 SYNOPSIS
 
-  C<perl -MCPAN -e 'install Bundle::PDF'>
+  perl -MCPAN -e 'install Bundle::PDF'
 
 =head1 CONTENTS
 
@@ -25,8 +25,6 @@ Text::Roman
 PDF::API2
 
 Compress::Zlib
-
-File::Copy
 
 Getopt::Long
 
@@ -168,15 +166,11 @@ Image::ExifTool
 
 URI::Title
 
-Webservice::Trynt::PDF
-
 URI
 
 Module::Pluggable
 
 File::Type
-
-File::Copy
 
 Pod::HtmlPsPdf
 
@@ -264,19 +258,56 @@ Exporter::Lite
 
 Class::Accessor
 
+Text::FIGlet
+
+Text::Typography
+
+Text::Iconv
+
+Image::ANSI
+
+Tk
+
+Tk::Font::Dialog
+
+ExtUtils::Manifest
+
+Math::Bezier::Convert
+
+AMF::Perl
+
+Bundle::PerlPoint
+
+SVG
+
+GD::SVG
+
+SVG::Graph
+
+SVG::TT::Graph
+
+PTools::SDF
+
+Pod::Sdf
+
+Pod::PerlPoint
+
+FrameMaker::FromHTML
+
+XML::ApacheFOP
+
+App::a2pdf
+
+Image::Magick::Thumbnail
+
+Image::Magick::Thumbnail::PDF
+
+Image::Magick::Thumbnail::Fixed
+
+Bundle::Unicode
 
 
-
-
-
-
-
-
-
-
-
-
-=head2 Description
+=head2 DESCRIPTION
 
 PDF::CreateSimple was left out because of compilation problems. 
 PDF::Template was left out because it requires the third-party
