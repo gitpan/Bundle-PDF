@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Bundle-PDF
-version:             0.04
+version:             0.05
 abstract:            A bundle to install PDF modules and dependencies
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.32

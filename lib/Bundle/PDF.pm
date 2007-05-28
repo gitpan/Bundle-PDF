@@ -1,7 +1,7 @@
 package Bundle::PDF;
 
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 
 
@@ -304,15 +304,89 @@ Image::Magick::Thumbnail::PDF
 
 Image::Magick::Thumbnail::Fixed
 
+Date::Simple
+
+Data::Grove
+
+XML::RegExp
+
+XML::Parser
+
+LWP::UserAgent
+
+XML::DOM
+
+XML::Xpath
+
+Test::XML
+
+Algorithm::Points::MinimumDistance
+
+Class::MethodMaker
+
+Scalar::Util
+
+UML::Sequence
+
+Ernno
+
+XML::SAX::Base
+
+Geo::ShapeFile
+
+XML::Generator
+
+Transform::Canvas
+
 Bundle::Unicode
 
+XSLoader
+
+overload
+
+Data::Dumper
+
+HTML::Entities
+
+SVG::Parser
+
+SVG::DOM
+
+SVG::XML
+
+SVG::Element
+
+SVG::Metadata
+
+HTML::Entities::Numbered
+
+SVG::DOM2
+
+SVG::DOM2::Element::Document
+
+Image::Info::SVG
+
+XML::Generator::SVG::ShapeFile
+
+SVG::Template::Graph
+
+SVG::GD
+
+SVG::SVG2zinc
+
+SVG::Plot
+
+Graph::Easy
+
+Graph::Easy::As_svg
+
+SVGGraph::Pie
 
 =head2 DESCRIPTION
 
 PDF::CreateSimple was left out because of compilation problems. 
 PDF::Template was left out because it requires the third-party
 PDFLib-Lite.
-
 
 =head1 SEE ALSO
 

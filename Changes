@@ -1,6 +1,6 @@
 Revision history for Perl extension Bundle::PDF.
 
-0.04  Sat May 12 02:44:54 2007
+0.05  Sun May 27 23:56:49 2007
 	- original version; created by h2xs 1.23 with options
 		-AXcfn Bundle::PDF
 
